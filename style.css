@@ -89,7 +89,7 @@ body {
     border-radius: 8px;
 }
 
-/* 🚀 AJUSTE 2: AUMENTAR Y HOMOGENEIZAR ALTURA DE IMÁGENES DESTACADAS */
+/*  AJUSTE 2: AUMENTAR Y HOMOGENEIZAR ALTURA DE IMÁGENES DESTACADAS */
 .image-box img {
     width: 100%;
     height: 350px; /* Aumentado de 300px a 350px */
@@ -168,10 +168,10 @@ body {
     min-width: 120px;
 }
 
-/* 🚀 AJUSTE 3: AUMENTAR TAMAÑO DE LOS ÍCONOS */
+/* AJUSTE 3: AUMENTAR TAMAÑO DE LOS ÍCONOS */
 .icon-item img {
-    width: 220px; /* Aumentado de 100px a 120px */
-    height: 220px; /* Aumentado de 100px a 120px */
+    width: 250px; /* Aumentado de 100px a 120px */
+    height: 250px; /* Aumentado de 100px a 120px */
     border-radius: 50%;
     background-color: var(--icon-bg);
     border: 1px solid rgba(0, 0, 0, 0.05);
@@ -186,7 +186,7 @@ body {
 }
 
 .icon-item p {
-    font-size: 0.7em;
+    font-size: 0.9em;
     color: var(--secondary-color);
     font-weight: bold;
     text-transform: uppercase;
@@ -196,7 +196,7 @@ body {
 /* BANNER INFERIOR (Footer) */
 /* --------------------------------- */
 .contact-banner {
-  background-color: var(--secondary-color);
+    background-color: var(--secondary-color);
     color: var(--light-text);
     padding: 25px 0;
     text-align: center;
